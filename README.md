@@ -10,8 +10,8 @@ I'm a Computer Science student passionate about coding and creating efficient so
 - 💡 Passionate about problem-solving and **building practical tools**.
 
 ## 🔧 Technologies & Tools
-- **Languages**: Python, Dart (Flutter), C, Java, JavaScript
-- **Tools**: Git, GitHub, Firebase
+- **Languages**: Python, Dart (Flutter), C, Java, HTML/CSS, JavaScript
+- **Tools and Frameworks**: Git, GitHub, Firebase, Scikit-Learn, Transformers
 - **Interests**: Data structures, Algorithms, Mobile App Development, and Backend Systems
 
 ## 📚 Learning & Expanding
