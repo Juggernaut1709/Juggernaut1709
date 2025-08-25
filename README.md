@@ -1,4 +1,4 @@
-<!-- Profile Banner (Optional) -->
+z<!-- Profile Banner (Optional) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20I'm%20Jagannathan%20👋&fontSize=40&fontColor=ffffff" alt="Jagannathan Banner"/>
 </p>
@@ -46,7 +46,7 @@
 - 🛠️ **Backend systems**  
 
 <p align="center">
-  <a href="https://github.com/Jagannathan">
+  <a href="https://github.com/Juggernaut1709">
     <img src="https://img.shields.io/badge/🔗%20Visit%20My%20Repositories-blue?style=for-the-badge&logo=github"/>
   </a>
 </p>
