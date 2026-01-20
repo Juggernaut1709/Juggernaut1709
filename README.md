@@ -1,4 +1,4 @@
-z<!-- Profile Banner (Optional) -->
+<!-- Profile Banner (Optional) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20I'm%20Jagannathan%20👋&fontSize=40&fontColor=ffffff" alt="Jagannathan Banner"/>
 </p>
